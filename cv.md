@@ -47,3 +47,19 @@ function getDivis (num1, num2) {
 }
 alert('Частное равно ' + getDivis (a, b));
 ```
+
+### Education
+
+- **School 21** (in progress)
+- **RS School**
+  - JavaScript/Front-end. Stage 0 (in progress)
+- **Synergy University**
+  - HTML/CSS and Programming in JavaScript
+- **Geek Brains**:
+  - Programming Fundamentals. An Interactive Course
+  - HTML/CSS. An Interactive Course
+
+### Languages
+
+- **Russian** - native speaker
+- **English** - B1
